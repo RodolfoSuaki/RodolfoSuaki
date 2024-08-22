@@ -4,8 +4,7 @@
  <h2>Sobre mim</h2> 
 Trabalho na área de análise de dados, onde utilizo minhas habilidades para transformar números em insights. </br>
 No entanto, estou constantemente buscando expandir meus horizontes e, por isso, estou me aprofundando nos campos de programação (java/python) e inteligência artificial. </br>
-Acredito que a combinação dessas habilidades irá me permitir criar soluções mais integradas e eficientes, capazes de transformar não apenas dados, </br>
-mas também ideias e conceitos em estratégias inovadoras e resultados.
+Acredito que a combinação dessas habilidades irá me permitir criar soluções mais integradas e eficientes, capazes de transformar não apenas dados, mas também ideias e conceitos em estratégias inovadoras e resultados.
 
 <br> ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RodolfoSuaki&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
